@@ -1,1 +1,1 @@
-# MSOffice365
+# MS Office365
